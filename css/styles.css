@@ -646,7 +646,7 @@ template {
   align-content: center;
   position: relative;
   height: 100vh;
-  background: url("../img/banner.jpg") center/cover; }
+  background: url("../img/grupo.jpeg") center/cover; }
   #header:before {
     content: "";
     position: absolute;
@@ -732,7 +732,7 @@ template {
         font-weight: 600;
         margin: 0; }
     .projects__item:nth-child(1) {
-      background: url("../img/banner.jpg") center/cover; }
+      background: url("../img/grupo.jpeg") center/cover; }
       .projects__item:nth-child(1):before {
         content: "";
         position: absolute;
